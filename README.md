@@ -3,3 +3,5 @@ cpu
 motherboard
 monitor
 harddrive
+mouse
+spund card
