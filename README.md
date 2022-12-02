@@ -2,3 +2,4 @@
 cpu
 motherboard
 monitor
+harddrive
